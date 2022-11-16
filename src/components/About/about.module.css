@@ -1,0 +1,12 @@
+.aboutbg{
+    background-color: #1abc9c ;
+}
+.headersize{
+    font-size: 3.5rem;
+}
+.line{
+    width: 100px;
+    height: 3px;
+    border-radius: 10px;
+    background-color: white;
+}
